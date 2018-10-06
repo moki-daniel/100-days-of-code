@@ -15,3 +15,10 @@
 **Thoughts:** I started the freecodecamp earlier but always left in the middle but am happy to restart it to and focus on finishing it no matter what happens.
 
 **Link to work:** [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+
+### Day 3: October 6, 2018 
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and managed to finish the Applied Visual Design challenges.
+
+**Thoughts:** I enjoyed working with css colors and animations. and it was really exciting to create a heart in css and html.
+
